@@ -55,7 +55,6 @@ SecureAPI is a Python system that protects API traffic with cryptography, then *
 
 ## 🎯 Attack Demo (target output)
 
-> The demo is still being built. This is what it should print when finished.
 
 ```
 $ python attacks/attacker.py
@@ -94,13 +93,6 @@ pip install -r requirements.txt
 ```
 
 ## 🧪 Usage
-
-*(TODO: add the real commands once the code works)*
-
-1. Start the server
-2. Run the client
-3. Run the attack demo
-4. Run the tests with `pytest`
 
 ## 📂 Project Structure
 
