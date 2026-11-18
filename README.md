@@ -136,6 +136,6 @@ Cybersecurity, Year 3, CADT · Cryptography Final Project
 
 <div align="center">
 
-*Crafted with caffeine, nonces, and way too many hex bytes.*
+*Built by someone who says "I got this" without knowing exactly what was going on.*
 
 </div>
